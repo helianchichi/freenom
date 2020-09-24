@@ -42,6 +42,7 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/mast
 众所周知，Freenom是地球上唯一一个提供免费顶级域名的商家，不过需要每年续期，每次续期最多一年。由于我申请了一堆域名，而且不是同一时段申请的，
 所以每次续期都觉得折腾，于是就写了这个自动续期的脚本。
 
+
 ### 🍭  效果
 ![邮件示例](https://s2.ax1x.com/2020/01/31/139Rrd.png "邮件内容")
 
